@@ -35,7 +35,7 @@ Aplicación de **POO avanzada** en **Java**.
 - Sistema de **excepciones personalizadas** para robustez del software.
 - Modelado previo mediante diagramas de clases **UML**.
 
-### 📊 [Sistema de Gestión Académica](https://github.com/Fer-DeLeon/Gestion_Datos_Estudiantes.git))
+### 📊 [Sistema de Gestión Académica](https://github.com/Fer-DeLeon/Gestion_Datos_Estudiantes.git)
 Proyecto inicial en **Python**.
 - Procesamiento de datos mediante **matrices y listas paralelas**.
 - Algoritmos de ordenamiento y búsqueda documentados.
