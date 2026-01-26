@@ -1,4 +1,4 @@
-# Hola, soy Fernando De Leon
+# Fernando De Leon
 
 ### Desarrollador en formación | Lic. en Organización y Gestión Educativa | Prof. de Matemática
 
