@@ -1,6 +1,6 @@
 # Hola, soy Fernando De Leon
 
-### Desarrollador en formación | Lic. en Gestión Educativa | Prof. de Matemática
+### Desarrollador en formación | Lic. en Organización y Gestión Educativa | Prof. de Matemática
 
 Soy un profesional con más de 10 años de experiencia en el ámbito educativo, habiendo desempeñado roles como **Docente de Matemática** y **Director de Nivel Secundario**. Actualmente, estoy canalizando mi capacidad analítica y de gestión hacia el desarrollo de software, cursando la **Tecnicatura Universitaria en Programación en la UTN Avellaneda**.
 
