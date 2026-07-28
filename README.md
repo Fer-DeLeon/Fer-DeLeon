@@ -22,7 +22,7 @@ Soy un profesional con más de 10 años de experiencia en el ámbito educativo, 
 
 ---
 
-## Proyectos Destacados (UTN)
+## Proyectos Destacados
 
 ### [Sistema de Gestión de Cine](https://github.com/Fer-DeLeon/Sistema_de_Cine.git)
 Desarrollo modular en **Java** bajo el patrón **MVC**.
