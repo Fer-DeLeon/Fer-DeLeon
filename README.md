@@ -7,8 +7,8 @@ Soy un profesional con más de 10 años de experiencia en el ámbito educativo, 
 ---
 
 ## Sobre mí
-- **Formación:** Licenciado en Organización y Gestión Educativa (Feb 2025).
-- **Actualidad:** Estudiante de 2do año de Programación.
+- **Formación:** Profesorado de Educación Secundaria en Matemática (Dic 2015). Licenciado en Organización y Gestión Educativa (Feb 2025).
+- **Actualidad:** Estudiante de 2do año en la Tecnicatura Universitaria en Programación (UTN).
 - **Background:** 4 años liderando instituciones educativas, lo que me brindó habilidades en gestión de proyectos, resolución de conflictos y liderazgo de equipos.
 - **Fortaleza:** El pensamiento lógico-matemático aplicado a la eficiencia del código.
 
